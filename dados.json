@@ -1,0 +1,245 @@
+{
+    "Pontuacoes": {},
+    "Perguntas": {
+        "Qual o equipamento de prote\u00e7\u00e3o individual (EPI) que os bombeiros usam na cabe\u00e7a para se proteger do calor e impactos?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Capacete",
+                "b) Luva",
+                "c) Bota",
+                "d) M\u00e1scara"
+            ],
+            "resposta": "a"
+        },
+        "Qual das alternativas abaixo \u00e9 uma das principais causas de queimadas que n\u00e3o \u00e9 natural?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Raios",
+                "b) Calor excessivo",
+                "c) Bal\u00f5es juninos",
+                "d) Seca prolongada"
+            ],
+            "resposta": "c"
+        },
+        "Qual \u00e9 o agente extintor mais comum e eficaz para combater inc\u00eandios em vegeta\u00e7\u00e3o, como as queimadas?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) G\u00e1s carb\u00f4nico (CO2)",
+                "b) P\u00f3 qu\u00edmico",
+                "c) \u00c1gua",
+                "d) Espuma"
+            ],
+            "resposta": "c"
+        },
+        "Para abafar o fogo em pequenas \u00e1reas de vegeta\u00e7\u00e3o, qual ferramenta manual \u00e9 frequentemente utilizada pelo bombeiro?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Enxad\u00e3o",
+                "b) P\u00e1",
+                "c) Batedor (chicote) de inc\u00eandio",
+                "d) Machadinha"
+            ],
+            "resposta": "c"
+        },
+        "Qual destas a\u00e7\u00f5es \u00e9 uma boa pr\u00e1tica para prevenir queimadas em \u00e1reas rurais?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Jogar bitucas de cigarro acesas no ch\u00e3o",
+                "b) Manter aceiros (faixas sem vegeta\u00e7\u00e3o) limpos",
+                "c) Fazer fogueiras perto de vegeta\u00e7\u00e3o seca",
+                "d) Queimar lixo no quintal"
+            ],
+            "resposta": "b"
+        },
+        "A fuma\u00e7a das queimadas pode causar problemas principalmente em qual parte do corpo humano?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Pernas",
+                "b) Cabelos",
+                "c) Bra\u00e7os",
+                "d) Pulm\u00f5es"
+            ],
+            "resposta": "d"
+        },
+        "Qual bioma brasileiro \u00e9 conhecido por ter um per\u00edodo de seca mais longo e, por isso, ser mais propenso a queimadas naturais e antr\u00f3picas?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Cerrado",
+                "b) Mata Atl\u00e2ntica",
+                "c) Amaz\u00f4nia",
+                "d) Pampa"
+            ],
+            "resposta": "a"
+        },
+        "Na maioria dos casos, fazer queimadas sem autoriza\u00e7\u00e3o \u00e9:": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Recomendado para renovar o pasto",
+                "b) Uma atividade inofensiva",
+                "c) Crime ambiental",
+                "d) Permiss\u00e3o para limpeza de terreno"
+            ],
+            "resposta": "c"
+        },
+        "Quando os bombeiros jogam \u00e1gua diretamente nas chamas para diminuir a temperatura, eles est\u00e3o usando a t\u00e9cnica de:": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Abafamento",
+                "b) Resfriamento",
+                "c) Isolamento",
+                "d) Conten\u00e7\u00e3o"
+            ],
+            "resposta": "b"
+        },
+        "Em uma opera\u00e7\u00e3o de combate a inc\u00eandio, qual a import\u00e2ncia de uma boa comunica\u00e7\u00e3o entre os membros da equipe?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Apenas para socializar",
+                "b) Para evitar acidentes e coordenar a\u00e7\u00f5es",
+                "c) Para reclamar do calor",
+                "d) Para contar piadas"
+            ],
+            "resposta": "b"
+        },
+        "Em caso de uma queimadura leve, o que se deve fazer inicialmente?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Colocar manteiga",
+                "b) Perfurar as bolhas",
+                "c) Esfregar \u00e1lcool",
+                "d) Lavar com \u00e1gua fria e corrente"
+            ],
+            "resposta": "d"
+        },
+        "As queimadas destroem o lar e o alimento de muitos animais. Qual o resultado direto disso?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Aumento da popula\u00e7\u00e3o de animais",
+                "b) Migra\u00e7\u00e3o e morte de animais",
+                "c) Diminui\u00e7\u00e3o da temperatura",
+                "d) Crescimento de novas florestas"
+            ],
+            "resposta": "b"
+        },
+        "Depois que as chamas s\u00e3o controladas, qual \u00e9 a etapa importante para evitar que o fogo recomece?": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Fazer o rescaldo, eliminando focos de calor",
+                "b) Descansar imediatamente",
+                "c) Ir embora do local",
+                "d) Come\u00e7ar outro combate em \u00e1rea diferente"
+            ],
+            "resposta": "a"
+        },
+        "Um inc\u00eandio que atinge principalmente a vegeta\u00e7\u00e3o de florestas, matas e campos \u00e9 chamado de:": {
+            "dificuldade": "facil",
+            "opcoes": [
+                "a) Inc\u00eandio el\u00e9trico",
+                "b) Inc\u00eandio veicular",
+                "c) Inc\u00eandio florestal (ou queimada)",
+                "d) Inc\u00eandio em edifica\u00e7\u00e3o"
+            ],
+            "resposta": "c"
+        },
+        "Qual a principal fun\u00e7\u00e3o de um aceiro feito ao redor de uma propriedade rural para prevenir queimadas?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Criar uma barreira sem vegeta\u00e7\u00e3o para conter o avan\u00e7o do fogo",
+                "b) Servir como estrada para ve\u00edculos",
+                "c) Ser um local para acampar",
+                "d) Aumentar a \u00e1rea de plantio"
+            ],
+            "resposta": "a"
+        },
+        "Qual destes fatores \u00e9 crucial para a velocidade de propaga\u00e7\u00e3o de uma queimada e pode mudar rapidamente?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Cor do solo",
+                "b) Tipo de rocha",
+                "c) For\u00e7a e dire\u00e7\u00e3o do vento",
+                "d) Quantidade de pedras no caminho"
+            ],
+            "resposta": "c"
+        },
+        "No Brasil, qual \u00f3rg\u00e3o federal possui uma brigada especializada no combate a inc\u00eandios florestais e atua na fiscaliza\u00e7\u00e3o ambiental?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Minist\u00e9rio da Educa\u00e7\u00e3o",
+                "b) Pol\u00edcia Federal",
+                "c) IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renov\u00e1veis)",
+                "d) Correios"
+            ],
+            "resposta": "c"
+        },
+        "Al\u00e9m dos custos diretos de combate, as queimadas geram grandes preju\u00edzos econ\u00f4micos ao:": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Aumentar o pre\u00e7o da gasolina",
+                "b) Destruir lavouras e pastagens, afetando o agroneg\u00f3cio",
+                "c) Diminuir o tr\u00e1fego nas estradas",
+                "d) Aumentar o n\u00famero de turistas"
+            ],
+            "resposta": "b"
+        },
+        "Em um dia quente e com pouca umidade do ar, o risco de queimadas aumenta significativamente. Isso se deve principalmente a qual fator?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Maior evapora\u00e7\u00e3o da \u00e1gua",
+                "b) Menor chance de chuva",
+                "c) Vegeta\u00e7\u00e3o mais seca e inflam\u00e1vel",
+                "d) Presen\u00e7a de nuvens no c\u00e9u"
+            ],
+            "resposta": "c"
+        },
+        "Como \u00f3rg\u00e3os como o INPE (Instituto Nacional de Pesquisas Espaciais) monitoram os focos de calor e auxiliam no combate \u00e0s queimadas?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Enviando drones para cada foco",
+                "b) Atrav\u00e9s de den\u00fancias por telefone",
+                "c) Enviando equipes terrestres di\u00e1rias",
+                "d) Utilizando imagens de sat\u00e9lite"
+            ],
+            "resposta": "d"
+        },
+        "As grandes queimadas no Pantanal, como as de 2020, causaram a morte e o deslocamento de milhares de animais. Este evento \u00e9 um exemplo de impacto em qual aspecto?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Apenas na economia local",
+                "b) Principalmente na sa\u00fade humana",
+                "c) No equil\u00edbrio ambiental e biodiversidade",
+                "d) No aumento da urbaniza\u00e7\u00e3o"
+            ],
+            "resposta": "c"
+        },
+        "Em uma estrat\u00e9gia de combate a inc\u00eandios, por que \u00e9 importante criar linhas de fogo controlado?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Para aumentar o fogo e acelerar o consumo de vegeta\u00e7\u00e3o",
+                "b) Para queimar vegeta\u00e7\u00e3o de forma controlada e interromper a propaga\u00e7\u00e3o do fogo maior",
+                "c) Para assustar animais da regi\u00e3o",
+                "d) Para criar espa\u00e7os para constru\u00e7\u00e3o"
+            ],
+            "resposta": "b"
+        },
+        "Quando ocorre uma queimadura grave, qual \u00e9 o procedimento mais urgente?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Aplicar pomada",
+                "b) Procurar atendimento m\u00e9dico imediato",
+                "c) Enrolar a v\u00edtima em panos molhados",
+                "d) Dar rem\u00e9dios caseiros"
+            ],
+            "resposta": "b"
+        },
+        "Como a educa\u00e7\u00e3o ambiental pode ajudar na preven\u00e7\u00e3o das queimadas?": {
+            "dificuldade": "medio",
+            "opcoes": [
+                "a) Incentivando a queima para limpeza do terreno",
+                "b) Informando a popula\u00e7\u00e3o sobre riscos e cuidados",
+                "c) Incentivando o uso de fogueiras em \u00e1reas urbanas",
+                "d) Ignorando os impactos das queimadas"
+            ],
+            "resposta": "b"
+        }
+    }
+}
